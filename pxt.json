@@ -1,5 +1,5 @@
 {
-    "name": "Master_移動平均_PWM_ペン上下 - コピー #2",
+    "name": "Master_移動平均_PWM_LED",
     "description": "",
     "dependencies": {
         "core": "*",

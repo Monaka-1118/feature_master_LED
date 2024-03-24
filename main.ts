@@ -127,8 +127,8 @@ basic.forever(function () {
         Boom_angle = Boom_coefficient * (Boom_input_ave - Boom_min) + 975
     }
     if (pins.digitalReadPin(DigitalPin.P2) == 0) {
-        Pen_flag = 55
+        Pen_flag = 0
     } else {
-        Pen_flag = 100
+        Pen_flag = 1
     }
 })
