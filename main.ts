@@ -84,7 +84,7 @@ Boom_Max = 0
 Boom_min = 0
 Arm_Max = 0
 Arm_min = 0
-let Pen_flag = 90
+let Pen_flag = 0
 radio.setGroup(1)
 let 移動平均数 = 5
 let arm_input = pins.analogReadPin(AnalogPin.P1)
